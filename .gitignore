@@ -1,8 +1,9 @@
-data/*
 *.ipynb_checkpoints
 *.db
 *.png
 *.pdf
 *.ipynb
 *.xlsx
+*.csv
 *.pyc
+data/command
