@@ -1,0 +1,8 @@
+data/*
+*.ipynb_checkpoints
+*.db
+*.png
+*.pdf
+*.ipynb
+*.xlsx
+*.pyc
